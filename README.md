@@ -1,3 +1,4 @@
-# My Awesome Book
+# C程序设计新思维
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+学习札记-2018-01-17
+
